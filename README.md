@@ -1,2 +1,2 @@
-# Advanced-Stock-Price-Prediction-with-LSTM-and-Attention-Mechanism
+# Advanced-Stock-Price-Prediction-with-LSTM-and-Attention-Mechanism.
 
